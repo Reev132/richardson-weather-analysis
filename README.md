@@ -1,6 +1,6 @@
 # Richardson, TX Weather Analysis (2020–2024)
 
-This project explores climate trends in Richardson, Texas, using historical temperature data from the past five years (2020–2024). It focuses on how average monthly temperatures and extreme heat days have changed over time — a growing concern in many U.S. cities, including suburban areas like Richardson.
+This project explores climate trends in Richardson, Texas, using historical temperature data from the past five years (2020–2024). It focuses on how average monthly temperatures and extreme heat days have changed over time. This is a growing concern in many U.S. cities, including suburban areas like Richardson.
 
 ---
 
@@ -13,7 +13,7 @@ This project explores climate trends in Richardson, Texas, using historical temp
 
 ---
 
-## 📓 Notebook Summaries
+## Notebook Summaries
 
 ### 1. `1_EDA.ipynb` – Initial Exploration
 - Cleaned and processed raw data (TMAX, TMIN)
@@ -37,7 +37,7 @@ This project explores climate trends in Richardson, Texas, using historical temp
 
 - **Warming Trend**: Monthly averages are increasing, especially during summer.
 - **Hot Days Rising**: Number of days over 90°F jumped sharply in 2023 and 2024.
-- **Seasonal Shift**: Spring and fall are becoming warmer, reducing comfort months.
+- **Seasonal Shift**: Spring and fall are becoming warmer.
 
 ---
 
@@ -49,13 +49,3 @@ This project explores climate trends in Richardson, Texas, using historical temp
 - VS Code
 
 ---
-
-## Why This Project?
-
-I built this project as a practical exercise in data science — not machine learning — to strengthen my skills in:
-- Real-world data wrangling
-- Visual storytelling
-- Finding patterns and trends in climate time series
-- Working independently on a self-guided question
-
-  
