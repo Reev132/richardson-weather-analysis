@@ -19,7 +19,7 @@ This project explores climate trends in Richardson, Texas, using historical temp
 - Cleaned and processed raw data (TMAX, TMIN)
 - Computed daily average temperatures (`TAVG`)
 - Added datetime features like year, month, and day
-- Checked for missing values and outliers
+- Checked for outliers
 
 ### 2. `2_Monthly_Seasonal_Trends.ipynb` – Trends Over Time
 - Created monthly and seasonal average temperature plots
@@ -46,6 +46,5 @@ This project explores climate trends in Richardson, Texas, using historical temp
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebooks
 - Excel (data source)
-- VS Code
 
 ---
