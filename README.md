@@ -8,7 +8,7 @@ This project explores climate trends in Richardson, Texas, using historical temp
 
 - Investigate local climate changes over the past 5 years
 - Visualize monthly and seasonal temperature patterns
-- Identify long-term warming trends and extreme heat events (e.g., days over 90°F)
+- Identify long-term warming trends and extreme heat events (e.g., days over 100°F)
 - Practice real-world data cleaning, time series grouping, and effective storytelling with data
 
 ---
@@ -24,7 +24,7 @@ This project explores climate trends in Richardson, Texas, using historical temp
 ### 2. `2_Monthly_Seasonal_Trends.ipynb` – Trends Over Time
 - Created monthly and seasonal average temperature plots
 - Built a heatmap showing temperature patterns per year/month
-- Counted number of days > 90°F by year (extreme heat events)
+- Counted number of days > 100°F by year (extreme heat events)
 
 ### 3. `3_Insights_Report.ipynb` – Key Insights & Visual Storytelling
 - Highlighted clear temperature increases between 2020 and 2024
@@ -35,8 +35,8 @@ This project explores climate trends in Richardson, Texas, using historical temp
 
 ## Key Findings
 
-- **Warming Trend**: Monthly averages are increasing, especially during summer.
-- **Hot Days Rising**: Number of days over 90°F jumped sharply in 2023 and 2024.
+- **Warming Trend**: Monthly averages are somewhat increasing, especially during summer.
+- **Hot Days Rising**: Number of days over 100°F jumped sharply in 2022 and 2023.
 - **Seasonal Shift**: Spring and fall are becoming warmer.
 
 ---
